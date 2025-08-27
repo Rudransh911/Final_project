@@ -56,7 +56,7 @@ How accurately can deep learning models classify satellite images into land cove
 1. Clone this repository:
 
 ```bash
-git clone https://github.com//eurosat-dissertation.git
+[git clone https://github.com//eurosat-dissertation.git](https://github.com/Rudransh911/Final_project.git)
 ```
 
 2. Install dependencies:
